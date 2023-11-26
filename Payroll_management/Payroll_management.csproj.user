@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="beneficios.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="DashBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="departamento.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="EC_Employee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="home.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="office.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="relatorio.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="salario.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
